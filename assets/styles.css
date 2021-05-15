@@ -38,7 +38,6 @@ header {
 }
 nav {
      padding-right:6%;
-     /* display:none; */
 }
 nav ul{
      display: flex;
@@ -193,10 +192,7 @@ main {
      flex-wrap: wrap;
      
 }
-#contact-me .content  {
-     /* justify-content: space-evenly;
-     display:flex; */
-}
+
 #contact-me a, #contact-me a:visited {
      font-size:1.2rem;
      color: var(--darkblue-bg);
