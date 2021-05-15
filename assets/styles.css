@@ -145,6 +145,10 @@ main {
      color:var(--main-txt-color);
      text-decoration:none;
 }
+#work .content a:visited {
+     color:var(--main-txt-color);
+     text-decoration:none;
+}
 .project-title {
      align-self:flex-end;
      position:relative;
