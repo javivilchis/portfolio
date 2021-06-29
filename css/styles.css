@@ -15,6 +15,7 @@ html {
      background:var(--bluegreen-bg);
      color: var(--darkblue-bg);
 }
+/* start of the main styles */
 body {
      font-size:1rem;
      color: var(--main-txt-color);
