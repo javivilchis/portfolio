@@ -21,6 +21,9 @@ body {
      font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
      background: var(--light-bg);
 }
+p {
+     margin-bottom: 14px;
+}
 /* header */
 header {
      display:flex;
@@ -34,7 +37,7 @@ header {
      font-size:1.5rem;
      padding: .5rem .5rem .5rem 3rem;
      background: var(--bluegreen-bg);
-     color:
+
 }
 nav {
      padding-right:6%;
@@ -71,7 +74,7 @@ hero {
      position:relative;
      padding: 2rem 0;
      background-color:  var(--darkblue-bg);
-     background: url(wooden-fence.jpeg) repeat-x;
+     background: url(../images/header-image.png) repeat-x;
      display:flex;
      flex-direction: row;
      justify-content: flex-end;
@@ -157,11 +160,11 @@ main {
      z-index:5;
 }
 /* project backgrounds */
-.report { background: url("cool-tree.jpeg") no-repeat; background-size: cover;}
-.wall { background: url("led-wall.jpeg") no-repeat; background-size: cover;}
-.calculator { background: url("calculator.jpeg") no-repeat; background-size: cover;}
-.puzzle { background: url("puzzle.png") no-repeat; background-size: cover;}
-.buddy { background: url("poppies.jpeg") no-repeat; background-size: cover;}
+.report { background: url("../images/cool-tree.jpeg") no-repeat; background-size: cover;}
+.wall { background: url("../images/led-wall.jpeg") no-repeat; background-size: cover;}
+.calculator { background: url("../images/calculator.jpeg") no-repeat; background-size: cover;}
+.puzzle { background: url("../images/puzzle.png") no-repeat; background-size: cover;}
+.buddy { background: url("../images/poppies.jpeg") no-repeat; background-size: cover;}
 
 .overlay{
      position:absolute; 
@@ -218,6 +221,7 @@ footer ul {
      flex-direction: row;
      
 }
+
 footer li a {
      font-size:.9rem;
      color: #92cccd;
