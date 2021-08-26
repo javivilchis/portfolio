@@ -8,6 +8,7 @@ In here you can see the layout created using CSS Flexbox. Flexbox is a grid crea
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![GitHub all releases](https://img.shields.io/github/downloads/javivilchis/portfolio/total?logo=GitHub&style=flat-square)
 ***
+
 # How to get this up and running
 
 Pull the latest build, open the index file inside your favorite browser and voila!
@@ -34,3 +35,6 @@ Pull the latest build, open the index file inside your favorite browser and voil
 
 # For any information that I might have missed.
 [please contact javier at javivilchis@gmail.com](mailto:javivilchis@gmail.com)
+
+# Privacy Policy
+The content presented in this website and mobile app, are for public show and are place in good faith. However, none of the content presented in this website or app reflects any of the brands used in it. Javivilchis is not responsible or should be responsible for any of the content inside in any of the websites presented in this build. Ambit Energy and any products are copyright of Ambit Energy solely. permissions and use of logos are pending. Any work done for ambit has been reviewed and revised by management of such entity.
